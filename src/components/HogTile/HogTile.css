@@ -1,0 +1,32 @@
+.hog-tile {
+    border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 150px;
+}
+
+.hog-tile img {
+    width: 100%;
+}
+
+.hog-details {
+    margin-top: 10px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
+
+.hog-tile button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #e74c3c; /* Red */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hog-tile button:hover {
+    background-color: #c0392b; /* Darker red on hover */
+  }
+  
